@@ -1,0 +1,10 @@
+num1=int(input("Enter value for num1"))
+num2=int(input("Enter value  for num2"))
+addresult=num1+num2
+print("sum=",addresult)
+subresult=num1-num2
+print("subtraction=",subresult)
+multi=num1*num2
+print("multiresult=",multi)
+div=num1/num2
+print("divresult=",div)
