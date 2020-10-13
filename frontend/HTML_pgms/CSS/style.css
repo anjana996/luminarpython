@@ -1,0 +1,17 @@
+/*tag/id/class{
+property:value;
+property:value1;
+
+}
+*/
+h1{
+color:#e83abf;
+}
+/* ide selector #*/
+#one{
+color:rgb(101, 138, 113);
+}
+/* class selector is . */
+.two{
+color:pink;
+}

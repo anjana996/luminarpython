@@ -1,0 +1,35 @@
+.one{
+    float: left;
+    width:220px;
+    height:450px;
+    margin:auto;
+    border:6px;
+    border-color:white;
+
+}
+#rectangle1{
+    background-color: rosybrown;
+    margin-left: 5%;
+    border:6px;
+    border-color:white;
+}
+#rectangle2{
+    background-color: yellowgreen;
+    border:6px;
+    border-color:white;
+}
+#rectangle3{
+    background-color: tomato;
+    border:6px;
+    border-color:white;
+}
+#rectangle4{
+    background-color: violet;
+    border:6px;
+    border-color:white;
+}
+#rectangle5{
+    background-color: teal;
+    border:6px;
+    border-color:white;
+}
